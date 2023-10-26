@@ -1,2 +1,2 @@
 import os
-print(fhactula)
+print('fhactula')
